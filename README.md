@@ -24,10 +24,6 @@ vcg搜图：https://www.vcg.com/
 
 yandex搜图：https://yandex.com/images?
 
-百度搜图：https://graph.baidu.com/pcpage/index?
-
-必应搜图：https://www.bing.com/
-
 谷歌搜图：https://images.google.com.hk/
 
 画像搜图：https://ascii2d.net/
